@@ -1,0 +1,22 @@
+#main{
+    margin: 30px 0 ;
+}
+body{
+    background-color: darkgrey;
+}
+#clock{
+    display: inline;
+    
+    max-width: 200px;
+    position: relative;
+}
+#hour,#minute,#second{
+    
+    display: inline;
+    position: relative;
+    margin:auto;
+    max-width: 200px;
+    position:absolute;
+    left:8.39999px;
+    
+}
